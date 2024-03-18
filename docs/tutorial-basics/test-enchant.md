@@ -1,5 +1,5 @@
 ---
-title: Enchantment Documentation
+title: Razors Edge
 sidebar_position: 7
 ---
 
