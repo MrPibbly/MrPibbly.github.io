@@ -8,11 +8,11 @@ sidebar_position: 7
 ### Description
 Gives a **Chance** to deal **Damage** to a player.
 
-|-------|
-| Level |
-| 1     |
-| 2     |
-| 3     |
-| 4     |
-| 5     |
-|-------|
+
+| Level | Chance | Damage |
+|-------|--------|--------|
+| 1     |  10%   |   2    |
+| 2     |  20%   |   4    |
+| 3     |  30%   |   6    |
+| 4     |  40%   |   8    |
+| 5     |  50%   |   10   |
