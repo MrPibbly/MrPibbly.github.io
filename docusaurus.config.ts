@@ -11,7 +11,7 @@ const config: Config = {
   url: 'https://wiki.swyftmc.net/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/docs/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -34,14 +34,13 @@ const config: Config = {
       'classic',
       {
         docs: {
-          sidebarPath: './sidebars.ts',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
+          sidebarPath: require.resolve('./sidebars.js'),
+          routeBasePath: '/',
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'http://google.com/',
         },
         theme: {
-          customCss: './src/css/custom.css',
+          customCss: require.resolve('./src/css/custom.css'),
         },
       } satisfies Preset.Options,
     ],
@@ -53,7 +52,7 @@ const config: Config = {
     navbar: {
       title: 'Swyft Wiki',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Swyft Logo',
         src: 'img/logo.svg',
       },
       items: [
