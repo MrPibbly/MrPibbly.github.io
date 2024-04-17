@@ -53,7 +53,7 @@ const config: Config = {
       title: 'Swyft Wiki',
       logo: {
         alt: 'Swyft Logo',
-        src: 'img/logo.svg',
+        src: 'img/logo.png',
       },
       items: [
         {
