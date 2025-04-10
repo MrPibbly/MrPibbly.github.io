@@ -2,6 +2,7 @@
 id: cheating-rules
 title: Cheating Rules
 sidebar_label: Cheating
+sidebar_position: 14
 ---
 
 ## 4 - Cheating
