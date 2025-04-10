@@ -20,7 +20,7 @@ The use of client-side mods or hack clients to **gain an unfair advantage** is s
 - Speed Hacks
 - Kill-Aura
 
-> Check #Link-To-Guide-For-Allowed-Mods in Discord to see which mods are permitted.  
+> Check `#Link-To-Guide-For-Allowed-Mods` in Discord to see which mods are permitted.  
 > Any mod not listed should be assumed **prohibited** by default.
 
 If you believe a mod should be allowed, you may **submit a request** in Discord, and the mod will be reviewed by staff.
