@@ -2,6 +2,7 @@
 id: chat-voice-rules
 title: Chat and Voice Chat Usage and Restrictions
 sidebar_label: Chat & Voice Rules
+sidebar_position: 11
 ---
 
 ## 1 - Chat and Voice Chat Usage and Restrictions
