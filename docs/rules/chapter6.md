@@ -2,6 +2,7 @@
 id: evading
 title: Evading Rules
 sidebar_label: Evading
+sidebar_position: 16
 ---
 
 ## 6 - Evading
