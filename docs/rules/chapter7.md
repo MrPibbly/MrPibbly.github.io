@@ -2,6 +2,7 @@
 id: conduct-outside-server
 title: Conduct Outside of Server
 sidebar_label: Conduct Outside of Server
+sidebar_position: 17
 ---
 
 ## 7 - Conduct Outside of Server
