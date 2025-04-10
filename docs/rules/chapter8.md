@@ -2,6 +2,7 @@
 id: ticket-system-reporting
 title: Ticket System & Reporting
 sidebar_label: Ticket System & Reporting
+sidebar_position: 18
 ---
 
 ## 8 - Ticket System & Reporting
