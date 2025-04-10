@@ -2,6 +2,7 @@
 id: pvp-rules
 title: PvP Rules
 sidebar_label: PvP Rules
+sidebar_position: 12
 ---
 
 ## 2 - PvP Rules
