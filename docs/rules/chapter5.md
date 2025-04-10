@@ -2,6 +2,7 @@
 id: alt-accounts
 title: Alt Account Rules
 sidebar_label: Alt Accounts
+sidebar_position: 15
 ---
 
 ## 5 - Alt Accounts
