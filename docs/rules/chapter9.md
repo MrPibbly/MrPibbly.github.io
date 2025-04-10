@@ -2,6 +2,7 @@
 id: land-claims-management
 title: Land Claims and Management
 sidebar_label: Land Claims and Management
+sidebar_position: 19
 ---
 
 ## 9 - Land Claims and Management
