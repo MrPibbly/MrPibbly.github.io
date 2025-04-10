@@ -2,6 +2,7 @@
 id: trading-rules
 title: Trading & Item Sales
 sidebar_label: Trading & Sales
+sidebar_position: 13
 ---
 
 ## 3 - Trading and Item Sales
