@@ -7,7 +7,7 @@ sidebar_position: 19
 
 ## 9 - Land Claims and Management
 
-We utilize the plugin **Lands** for our land claiming. By default, the plugin protects your land from modifications by players who are not a member of your land. You can assign permissions and roles to players. For more advanced features, please refer to the [Lands Wiki](#Link-To-Wiki).
+We utilize the plugin **Lands** for our land claiming. By default, the plugin protects your land from modifications by players who are not a member of your land. You can assign permissions and roles to players. For more advanced features, please refer to the [Lands Wiki](https://wiki.incredibleplugins.com/lands/players/basics/start).
 
 ### 9.1 - Land Rules
 
