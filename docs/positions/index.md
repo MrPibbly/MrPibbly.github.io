@@ -6,10 +6,21 @@ description: Overview of all staff positions, their roles, responsibilities, and
 
 # 🎖️ Staff Positions
 
-Welcome to the **Staff Positions** hub!  
-Here you'll find detailed guides for every staff role on the server—from helping new players and moderating chat to organizing events and enforcing server rules.
+Welcome to the **Staff Positions** hub!
 
-Each position comes with clearly defined responsibilities, expectations, and tools to help you succeed in your role.
+Here you’ll find everything you need to understand what it means to be part of our server’s staff team. Whether you’re moderating chat, hosting events, or helping new players find their footing, every role plays a critical part in shaping our community and keeping the server running smoothly.
+
+Being on the staff team isn’t just about enforcing rules—it’s about leading by example, being a reliable presence in the community, and creating a fun and inclusive space for all players. We’re looking for individuals who are passionate, patient, and proactive.
+
+Explore the positions below to learn more about what each role entails, and find the one that best suits your skills and interests.
+
+---
+
+## 📝 Apply for a Staff Role
+
+Interested in joining the team?  
+[**Click here to apply!**](https://www.google.com)  
+_(This link will be updated soon with our official application form.)_
 
 ---
 
@@ -18,14 +29,11 @@ Each position comes with clearly defined responsibilities, expectations, and too
 ### 🛡️ [Moderator](./moderator)
 Maintain server safety and enforce rules through chat moderation, player monitoring, and issuing punishments when needed.
 
+### 🤝 Assistant _(Coming Soon)_
+Support moderators and other staff members, assist players with questions, and help maintain a positive server environment.
+
 ### 🎉 Event Coordinator _(Coming Soon)_
 Plan and manage server events to keep the community engaged and active.
-
-### 🧭 Guide _(Coming Soon)_
-Welcome and assist new players, answer common questions, and help them get started on the server.
-
-### 🔧 Developer _(Coming Soon)_
-Build and maintain server features, fix bugs, and help bring new gameplay mechanics to life.
 
 ---
 
@@ -38,7 +46,3 @@ Build and maintain server features, fix bugs, and help bring new gameplay mechan
 - Set the standard for behavior in the community.
 
 ---
-
-Need help? Don’t hesitate to reach out to your **Staff Lead** or **Senior Moderator** for guidance.
-
-Let’s build an awesome server community—together!
