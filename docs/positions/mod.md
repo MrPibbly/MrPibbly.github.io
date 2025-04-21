@@ -55,7 +55,14 @@ Maintaining a respectful and enjoyable environment requires proper use of the di
 
 ## Command & Rule Format
 
-### Time Format s = seconds m = minutes h = hours d = days
+### Time Format 
+
+```bash
+s = seconds
+m = minutes
+h = hours
+d = days
+```
 
 ### Rule Format
 
