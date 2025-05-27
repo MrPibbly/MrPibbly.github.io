@@ -1,7 +1,5 @@
-
 ---
 title: Requirements
-sidebar_label: Staff Requirements
 sidebar_position: 1
 ---
 
