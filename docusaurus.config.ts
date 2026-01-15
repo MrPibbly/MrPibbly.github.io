@@ -53,7 +53,7 @@ const config: Config = {
       defaultMode: 'dark', // Sets dark mode as the default
       disableSwitch: false, // Keeps the user-facing switch enabled
       respectPrefersColorScheme: false, // Prioritizes user system settings
-    }
+    },
     navbar: {
       title: 'Swyft Wiki',
       logo: {
