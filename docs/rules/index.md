@@ -8,6 +8,6 @@ title: Swyft Rules
 Thank you for reviewing the rules for **Swyft**. If at any time you have questions about the rules listed above or need clarification, please contact:
 
 **MrPibbly**  
-*Swyft Lead Developer*  
+*Swyft Owner and Lead Developer*  
 @MrPibbly on Discord  
-Open ticket on Discord for supprt
+Open ticket on Discord for support
