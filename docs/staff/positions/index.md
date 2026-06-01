@@ -24,7 +24,7 @@ _(This link will be updated soon with our official application form.)_
 
 ---
 
-## 📌 Available Positions
+## 📌 Currently Hiring Positions
 
 ### 🛡️ [Moderator](https://wiki.swyftmc.net/positions/mod)
 Maintain server safety and enforce rules through chat moderation, player monitoring, and issuing punishments when needed.
