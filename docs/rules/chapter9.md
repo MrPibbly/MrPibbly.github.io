@@ -11,7 +11,7 @@ We utilize the plugin **Lands** for our land claiming. By default, the plugin pr
 
 ### 9.1 - Land Rules
 
-Owners and staff of **Lands** are allowed to create rules for the members of their land, as long as the rules are fair and do not break any server rules. **Punishment for breaking Land rules** will be handled by the staff of the respective Land. **Swyft staff** will not punish players for breaking Land-specific rules unless they are violating a server-wide rule.
+Owners and staff of **Lands** are allowed to create rules for the members of their land, as long as the rules are fair and do not break any server rules. **Punishment for breaking Land rules** will be handled by the staff of the respective Land. **Swyft staff** will not punish players for breaking Land-specific rules unless they are violating a Swyft rule. Griefing rules are handled differently for Lands.
 
 ### 9.2 - Griefing
 
@@ -21,16 +21,15 @@ If you buy or rent a piece of land, you must follow the rules in place for that 
 
 This also includes **Land Trapping**:
 - You cannot claim land that fully encompasses another player's land.
-- You cannot claim land that encroaches too close to another player's land boundary without their permission.
+- You cannot claim land that is close to another player's land boundary without their permission.
   
-The server is large enough to accommodate everyone's builds, so **do not crowd other players out of spite**.
+The server is large enough to accommodate everyone's builds, **do not crowd other players**.
 
 ### 9.3 - Alternate Account Land Claiming
 
-Using an **alternate account** to claim additional chunks near your main account’s land is strictly prohibited. If you intend to create a Land with an alternate account, it must be located at least **1,000 blocks away** from your main account's Land.
+Using an **alternate account** to claim additional chunks near your main account’s land is strictly prohibited. If you intend to create a Land with an alternate account, it must be located at least **1,000 blocks away** from your main account's Land. 
 
-- Sharing memberships of Lands between accounts you own is not allowed unless the account does not own a Land.
-- If you have three or more alternate accounts, ensure that you do not have membership in multiple Lands simultaneously.
 - The Lands claimed by different accounts must remain separate and should not share items, money, or farms.
+- Sharing memberships of Lands between accounts you own is not allowed unless the alternate accounts do not own a Land themselves.
 
-If you wish to expand your main account’s Land to an area outside of your Land, consider purchasing a **Land Part** from the **Swyft Coin Shop**.
+> If you wish to expand your main account’s Land to an area outside of your Land, consider purchasing a **Land Part** from the **Swyft Prestige Shop**.
