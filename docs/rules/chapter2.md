@@ -23,23 +23,23 @@ The following actions are considered PvP bypassing and are not allowed:
 
 ### 2.2 - Trapping
 
-Trapping players to gain an advantage in PvP is not allowed. This includes:
+Trapping players to gain an undefeatable advantage in PvP is not allowed. This includes:
 
-- **Teleport Trapping** – Inviting a player to teleport only to trap them.
+- **Teleport Trapping** – Inviting a player to teleport and instantly trapping them with no chance to avoid it.
 - **Portal Trapping** – Blocking both sides of a portal to trap players entering or exiting.
 
 ---
 
 ### 2.3 - Unsafe Teleports
 
-Creating warps or accepting teleport requests in a way that is unsafe, harmful, or intended to kill another player is prohibited. This includes:
+Creating Player Warps, Shops, or Lands Spawn Points that lead to any of the following destinations are prohibited:
 
 - Traps
 - Falling hazards
 - Lava or fire placement
-- Withholding escape routes
+- Locations without an escape possibility
 
-Unfair PvP wins through teleport manipulation are strictly against the rules.
+Killing players who are simply looking for a shop is not a fair form of PvP.
 
 ---
 
