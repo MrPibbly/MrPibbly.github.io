@@ -7,9 +7,8 @@ sidebar_position: 17
 
 ## 7 - Conduct Outside of Server
 
-While we generally do not regulate activities **outside of the server**, we **expect respect** to be maintained for all Swyft players, particularly in **direct messages**.
+We do not regulate or moderate activities or conversations that occured **outside of Swyft servers**.
 
-- **Harassment** or **attacks** on another player via **DMs** is not allowed.
-- If you encounter a **serious or legitimate issue** with another player outside of the server, please **open a ticket** for review by a staff member.
+- If you are being harassed **outisde of Swyft server**, you will need to contact the moderation team of the platform or take it up with the legal authorities of your country.
 
 > Keep interactions respectful and use the server’s channels for addressing any issues you have.
