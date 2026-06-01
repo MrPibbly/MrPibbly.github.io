@@ -17,21 +17,14 @@ The Swyft staff actively moderates all chats and reserves the right to enforce s
 
 A person commits harassment by participating in:
 
-- **Name Calling** – Using names someone does not wish to be called.
-- **CyberBullying** – Posting mean-spirited messages online.
-- **Racial Discrimination** – No racial slurs or unfair treatment based on race.
-- **Age Discrimination** – No discrimination based on age.
-- **Suicide and/or Self Harm Encouragement** – Never encourage or wish harm upon others.
+- **Name Calling** – Intentionally using a name other than the one a person prefers.
+- **CyberBullying** – Using chats, messages, or media to repeatedly harass other players.
+- **Racial Discrimination** – Targeting, insulting, or treating players unfairly based on race.
+- **Age Discrimination** – Treating players unfairly or hostilely due to how old they are.
+- **Suicide and/or Self Harm Encouragement** – Encouraging, promoting, or joking about self harm or suicide.
 - **Doxxing** – Sharing or searching for someone’s personal info without consent.
 - **DDOS** – Threatening or initiating a DDOS attack, or hiring a third party to do so.
-- **Exposing Staff Alternate Accounts** – Do not reveal, discuss, or accuse someone of being a staff alt.
-- **Sexual Harassment** – Unwelcome and inappropriate sexual remarks.
-- **Inappropriate Advances** – Includes:
-  - Persistent romantic/sexual propositions
-  - Sexual comments/innuendos
-  - Unsolicited explicit messages
-  - Stalking/persistent pursuit
-- **Retaliation** – Any action taken to harm or punish in response to another.
+- **Sexual Harassment** – Unwanted sexual comments, advances, or behavior toward other players.
 
 ---
 
@@ -50,58 +43,37 @@ Advertising of any kind (e.g. Minecraft/Discord servers, YouTube/Twitch channels
 
 ---
 
-### 1.4 - Inappropriate Chat Topics
-
-The following are prohibited in public chat to maintain a safe space:
-
-- Anti-LGBTQ+ discussions
-- Homophobic slurs or misgendering
-- Religious arguments against LGBTQ+
-- Religion
-- Abortion rights
-- Politics
-- Nationalism (e.g., “my country is better”)
-
-> “The rule does not include countries run by communism.” – *MrPibbly*
-
----
-
-### 1.5 - Excessive Swearing
+### 1.4 - Excessive Swearing
 
 Swearing should be limited due to the all-ages nature of Minecraft. Avoid targeting individuals or using excessive profanity.
 
-Examples:
-- **Direct**: "MrPibbly, you're the worst f**kin builder."
-- **Generalized**: "What the f**k is wrong with this house?!"
-- **Special Case**: "Yo, what the f**k Pibbly? Are you retarded?"
-
 ---
 
-### 1.6 - English Only
+### 1.5 - English Only
 
 All public chats must be in English. Exceptions: signs, private chats, private voice channels, item/mob names, and books — but these must still follow content rules.
 
 ---
 
-### 1.7 - Impersonation
+### 1.6 - Impersonation
 
 Do not impersonate other players, celebrities, or use deceptive usernames to cause issues or gain benefits.
 
 ---
 
-### 1.8 - Staff Disrespect
+### 1.7 - Staff Disrespect
 
-Respect for staff is crucial. The following are not allowed:
+Showing respect toward staff helps create a healthier community, makes communication easier, and allows issues to be resolved more efficiently and fairly. The following are not allowed:
 
-- **Belittling** – Dismissing staff’s role or actions.
+- **Undermining Staff** – Dismissing staff’s role or actions.
 - **Ignoring Staff** – Refusing to engage when staff is trying to communicate.
 - **Harassing Staff** – Spamming, pressuring, or threatening staff.
 
 ---
 
-### 1.9 - NSFW or Explicit Content
+### 1.8 - NSFW or Explicit Content
 
-All content must be appropriate for all ages.
+All content posted or shared on Discord, Minecraft, and other Swyft platforms must be appropriate for all ages.
 
 - **Nudity**
 - **Sexual Content**
@@ -111,9 +83,9 @@ All content must be appropriate for all ages.
 
 ---
 
-### 1.10 - Usernames
+### 1.9 - Usernames and Nicknames
 
-Usernames must be free of:
+Usernames and nicknames must be free of:
 
 - Swear words (in any language)
 - Hate speech
@@ -122,12 +94,6 @@ Usernames must be free of:
 
 ---
 
-### 1.11 - Profile Pictures
+### 1.10 - Profile Pictures
 
-NSFW content is not allowed in profile pictures used on any Swyft platform.
-
----
-
-### 1.12 - Hate Speech
-
-Any abusive or threatening language targeting ethnicity, religion, gender, sexual orientation, or similar is strictly prohibited.
+NSFW content is not allowed in profile pictures used on any Swyft platforms.
