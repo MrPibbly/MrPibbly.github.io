@@ -17,8 +17,8 @@ If you are punished on our server, **you must wait out your punishment** or subm
 
 If you are muted:
 
-- You **cannot** use an **alternate account** or **any indirect method** (e.g., signs, books, Discord text) to bypass the mute.
-- You **may** still communicate with friends via **DMs on Discord** or **other external social platforms**, but not in any way that circumvents the mute on **Minecraft or Discord servers**.
+- You **cannot** use an **alternate account** to bypass the mute.
+- You **may** still communicate with friends via **DMs on Discord** or **other external social platforms**, but not in any way that circumvents the mute on Swyft **Minecraft or Discord servers**.
 
 ---
 
