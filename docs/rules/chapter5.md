@@ -9,20 +9,14 @@ sidebar_position: 15
 
 Players are welcome to use **as many alternate accounts (alts)** as they’d like. However, **certain restrictions are in place to ensure fair gameplay** and prevent abuse.
 
-> Refer to `9.3 - Alternate Account Land Claiming` for rules on land claiming with alt accounts.
+> Refer to `[9.3 - Alternate Account Land Claiming](https://wiki.swyftmc.net/rules/land-claims-management#93---alternate-account-land-claiming)` for rules on land claiming with alternate accounts.
 
 ---
 
 ### 5.1 - Farming
 
-To prevent **economic exploitation**, alt accounts **cannot be used** to farm:
+Alternate accounts are allowed to be used in AFK farming as long as they are not used to break any other Swyft rules.
 
-- Items  
-- Experience  
-- In-game currency  
+> We recommend turning your render distance down to load only what is needed.
 
-for the purpose of **boosting a main account**.
-
-Alt accounts must be treated as **independent players**, not tools to gain an unfair advantage.
-
-> You are allowed to play on an alt account as long as it behaves like a separate, legitimate player—not as a booster for your main.
+Alternate accounts with their own Land must be treated as **independent players and Lands**
