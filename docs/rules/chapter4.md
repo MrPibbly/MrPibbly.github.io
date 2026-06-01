@@ -16,14 +16,16 @@ Cheating is defined as **using any tools, modifications, or behaviors that provi
 The use of client-side mods or hack clients to **gain an unfair advantage** is strictly prohibited. Examples include:
 
 - X-Ray
-- Auto-Clickers
-- Speed Hacks
+- Speed
 - Kill-Aura
+- Flight
 
-> Check `#Link-To-Guide-For-Allowed-Mods` in Discord to see which mods are permitted.  
+Macros and Auto-Clickers are prohibited for use in combat
+> PvE and Farm usage is allowed within moderation
+
+Check `#Link-To-Guide-For-Allowed-Mods` in Discord to see which mods are permitted.  
 > Any mod not listed should be assumed **prohibited** by default.
-
-If you believe a mod should be allowed, you may **submit a request** in Discord, and the mod will be reviewed by staff.
+> If you believe a mod should be allowed, you may **submit a request** in Discord, and the mod will be reviewed by staff.
 
 ---
 
